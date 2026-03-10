@@ -10,7 +10,7 @@ A quantitative finance project that identifies top-performing stocks across Indi
 - **Risk Metrics:** Calculates **Value at Risk (VaR)** and **Market Beta** vs. Nifty 50.
 - **Diversification:** Features a Correlation Heatmap to verify sector-wise hedging.
 
-![Portfolio Performance](portfolio_performance.png)
+![Portfolio Performance](portfolio_performance.png.png)
 
 ## Performance Results
 - **Portfolio Return:** 27.38% (Annualized)
