@@ -15,7 +15,7 @@ A quantitative finance project that identifies top-performing stocks across Indi
 ## Performance Results
 - **Portfolio Return:** 27.38% (Annualized)
 - **Portfolio Beta:** 0.73 (Defensive/Stable)
-- **Alpha Generated:** +25.59% vs. Nifty 50 Benchmark
+- **Alpha Generated:** +25.59% vs. Nifty 50 Benchmark.
 
 ## Tech Stack
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
