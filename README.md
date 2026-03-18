@@ -1,5 +1,5 @@
 # Stock Market Portfolio Optimizer 📈
-A Python-based tool for sectoral stock analysis, Monte Carlo simulation, and Risk-Adjusted Portfolio Optimization.
+A Python-based tool for sectoral stock analysis, Monte Carlo simulation, and Risk-Adjusted Portfolio Optimization
 
 A quantitative finance project that identifies top-performing stocks across Indian sectors (Banking, IT, Auto, etc.) and optimizes asset allocation using Monte Carlo simulations.
 ![Efficient Frontier Simulation](efficient-frontier-simulation.png.png)
